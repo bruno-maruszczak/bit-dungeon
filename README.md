@@ -12,6 +12,8 @@ Implemented in original logisim in 2022 by the owner and two collaborators on th
 
 ## Running
 
-To run this project you need the original [Logisim](https://www.cburch.com/logisim/) software and [Java Runtime Environment](https://www.java.com/download/). In Logisim choose `File` -> `Open...` and open `src/Main.circ`. Enable ticks in `Simulation` tab and follow instructions presented as a dashboard above the display.
+To run this project you need the original [Logisim](https://www.cburch.com/logisim/) software and [Java Runtime Environment](https://www.java.com/download/).
+
+In Logisim choose `File -> Open...` and open `src/Main.circ`. Enable ticks in `Simulation` tab and follow instructions presented as a dashboard above the display.
 
 ![Preview image](./preview.png)
